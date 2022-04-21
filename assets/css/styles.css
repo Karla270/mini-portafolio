@@ -249,6 +249,9 @@ body.dark-theme {
   column-gap: .25rem;
 }
 
+.bar-vertical {
+  border-left: thick solid;
+}
 /*=============== BUTTONS ===============*/
 .button {
   display: inline-flex;
